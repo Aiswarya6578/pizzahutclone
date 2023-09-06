@@ -1,0 +1,232 @@
+.nav{
+    width: 100%;
+    height: 70px;
+
+    
+}
+body{
+    margin: 0;
+    width: 100%;
+
+}
+.logo{
+    width: 50%;
+    height: 49%;
+    float: left;
+    background-image: url(logo_wide@x2.38f9109e24d22d58d048837b27f54390.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-top: 29px;
+
+}
+.login{
+    width: 50%;
+    height: 100%;
+    float: left;
+
+}
+.option{
+    padding-left: 459px;
+    padding-top: 21px;
+    font-family: "Open Sans", system-ui, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: normal;
+    text-decoration: underline dotted;
+    text-underline-position: under;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(107, 110, 121);
+    white-space: nowrap;
+}
+.secondpage{
+    height: 400px;
+    width: 100%;
+    background-image: url(pizzaimg.1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.thirdpage{
+    width: 100%;
+    height: 1px;
+    display: flex;
+    justify-content: center;
+
+}
+.innerbox{
+    width: 35%;
+    height: 392px;
+    margin-top: 45px;
+    float: left;
+    background-image: url(pizzaimg2.jpg);
+    margin-left: 10px;
+    background-size: cover;
+
+}
+.innerbox2{
+    width:35%;
+    height: 392px;
+    margin-top: 45px;
+    background-image: url(pizzaimg3.jpg);
+    margin-left: 10px;
+    background-size: cover;
+    
+}
+.button{
+    width:70%;
+    height: 59px;
+    background-color: #0a8020;
+    margin-top: 32%;
+    margin-left: 232px;
+    max-width: 1080px;
+    font-size: 1.4rem;
+    line-height: 1;
+    min-height: 55px;
+    border-radius: 10px;
+}
+    
+.view
+{
+    font-weight: 600;
+    color: white;
+    padding-top: 17px;
+    padding-left: 475px;
+}
+.footer{
+   width: 100%;
+   height: 700px;
+   margin-top: 10px;
+   background: black;
+   color: #fff;
+  
+}
+li{
+    list-style-type: none;
+}
+.box1{
+    width: 100%;
+    height: 200px;
+   
+}
+.box2{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    width: 100%;
+    height: 100px;
+   
+}
+.box4{
+    width: 100%;
+    height: 200px;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box5{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub-b1{
+    width: 20%;
+    height: 100%;
+    float: left;
+    margin-left: 155px;
+    font-size: small;
+}
+.sub-b2{
+    width: 20%;
+    height: 100%;
+    float: left;
+    font-size: small;
+
+}
+.sub-b3{
+    width: 20%;
+    height: 100%;
+    float: left;
+    font-size: small;
+}
+.sub-b4{
+    width: 20%;
+    height: 100%;
+    float: left;
+    font-size: small;
+
+}
+.image2{
+    width: 138px;
+    height: 42px;
+    margin-left: 8px;
+}
+.foot-logo{
+    
+    width: 83px;
+    height: 82px;
+    background: #fff;
+    border-radius: 7px;
+}
+.iconb-1{
+    width: 50%;
+    height: 100%;
+    
+    float: left;
+    display: flex;
+    justify-content: center;
+
+}
+.iconb-2{
+    width: 50%;
+    height: 100%;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+    float: left;
+}
+.button2{
+    width: 147px;
+    height: 50px;
+    background: #fff;
+    margin-left: 10px;
+    margin-top: 30px;
+    border-radius: 20px;
+    color: black;
+    display: flex;
+    align-items: center;
+   
+}
+.paraic{
+   margin-top: 45px;
+}
+.btnlt{
+    padding-left: 15px;
+}
+.icon{
+    width: 220px;
+    height: 40px;
+    margin-top: -7px;
+}
+.line{
+    width: 40%;
+    height: 1px;
+    background-color: #0a8020;
+  
+}
+.paraline{
+    display: flex;
+    margin-top: 208px;
+    margin-left: 49px;
+}
+.dpara{
+    margin-top: -17px;
+    font-size: 27px;
+}
